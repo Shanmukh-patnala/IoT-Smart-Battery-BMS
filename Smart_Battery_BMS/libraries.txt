@@ -1,3 +1,0 @@
-OneWire
-DallasTemperature
-Adafruit INA219
